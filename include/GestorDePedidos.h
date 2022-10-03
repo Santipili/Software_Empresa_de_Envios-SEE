@@ -1,5 +1,5 @@
-#ifndef GESTORDEENVIOS_H
-#define GESTORDEENVIOS_H
+#ifndef GESTORDEPEDIDOS_H
+#define GESTORDEPEDIDOS_H
 
 class GestorEnvios
 {
@@ -13,4 +13,4 @@ public:
 
 
 
-#endif // GESTORDEENVIO_H
+#endif // GESTORDEPEDIDOS_H

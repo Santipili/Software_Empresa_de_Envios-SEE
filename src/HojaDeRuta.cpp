@@ -1,7 +1,6 @@
 #include "./include/HojaDeRuta.h"
 
 
-
 HojaDeRuta::HojaDeRuta(/* args */)
 {
 }
